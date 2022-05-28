@@ -22,44 +22,44 @@ body {
 
 .container h1{
     color: yellow;
-    font-size: 40pt;
+    font-size: 20pt;
     font-weight: lighter;
-    padding-right: 200px;
-    padding-left: 200px;
+    padding-right: 100px;
+    padding-left: 100px;
     border: 2px solid yellow;
     letter-spacing: 2rem;
 }
 
 .counter-display {
     text-align: center;
-    font-size: 60px;
+    font-size: 40px;
     color: #000;
-    margin: 45px 0px;
-    padding: 20px;
+    margin: 25px 0px;
+    padding: 5px;
     color: yellow;
-    width: 115px;
+    width: 100px;
     border-radius: 70px;
-    margin-top: 60px;
+    margin-top: 40px;
     border: 2px solid yellow;
     font-weight: lighter;
 }
 
 #buttons {
-    font-size: 15px;
-    padding: 15px 25px;
-    margin: 15px;   
+    font-size: 10px;
+    padding: 10px 15px;
+    margin: 5px;   
 }
 
 .counter-plus {
     color: yellow;
-    font-size: 30pt;
-    height: 80px;
-    width: 150px;
+    font-size: 20pt;
+    height: 60px;
+    width: 100px;
     border: 2px solid yellow;
     text-align: center;
     vertical-align: middle;
     background-color: black;   
-    margin-right: 60px;
+    margin-right: 10px;
     transition: 200ms ease-in-out;
 }
 
@@ -69,18 +69,17 @@ body {
     color: black;
 }
 
-
 .counter-minus {
     color: yellow;
-    font-size: 30pt;
-    height: 80px;
-    width: 150px;
+    font-size: 20pt;
+    height: 60px;
+    width: 100px;
     border-style: solid;
     border-color:  yellow;
     text-align: center;
     vertical-align: middle;
     background-color: black;   
-    margin-left: 60px;
+    margin-left: 10px;
     transition: 200ms ease-in-out;
 }
 
@@ -90,12 +89,10 @@ body {
     color: black;
 }
 
-
-
 .counter-reset{  
-    font-size: 30pt;
-    height: 80px;
-    width: 300px;
+    font-size: 20pt;
+    width: 200px;
+    height: 60px;    
     border-style: solid;
     border-color:  yellow;
     text-align: center;
@@ -110,5 +107,7 @@ body {
     background-color: black;
     color: yellow;
 }
+
+
 
 
