@@ -1,4 +1,4 @@
-#Javascript Counter
+# Javascript Counter
 
 This application is a simple counter made with JavaScript only.
 
